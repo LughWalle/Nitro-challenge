@@ -1,0 +1,23 @@
+{
+  "name": "nitro-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LughWalle/Nitro-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LughWalle/Nitro-challenge/issues"
+  },
+  "homepage": "https://github.com/LughWalle/Nitro-challenge#readme",
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
